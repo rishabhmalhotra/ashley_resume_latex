@@ -1,10 +1,10 @@
 # Fdb version 4
-["xdvipdfmx"] 1757958711.33381 "main.xdv" "main.pdf" "main" 1757958711.40734 0
-  "main.xdv" 1757958711.28842 37660 1a2dd05419002555cccf704b1db8dba1 "xelatex"
+["xdvipdfmx"] 1757958771.85843 "main.xdv" "main.pdf" "main" 1757958771.95684 0
+  "main.xdv" 1757958771.7895 37640 b550f4c327cc33d5f3d1bdcf187c1a0a "xelatex"
   (generated)
   "main.pdf"
   (rewritten before read)
-["xelatex"] 1757958710.16089 "/Users/rishabh/Development/ashley_resume_latex/main.tex" "main.xdv" "main" 1757958711.4059 0
+["xelatex"] 1757958770.58828 "/Users/rishabh/Development/ashley_resume_latex/main.tex" "main.xdv" "main" 1757958771.95541 0
   "/Users/rishabh/Development/ashley_resume_latex/main.tex" 1757952087.24531 717 6f891a747bdbd64d580b9081dcee9849 ""
   "/usr/local/texlive/2025basic/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136768653 1528 f853c4d1b4e0550255e02831fdc8496f ""
   "/usr/local/texlive/2025basic/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm" 1136768653 1528 abec98dbc43e172678c11b3b9031252a ""
@@ -153,10 +153,10 @@
   "/usr/local/texlive/2025basic/texmf.cnf" 1741448314 628 81d1ada0f601fb1ffa62f1323192d946 ""
   "achievements.tex" 1757953049.46069 740 68833e7ac91b0645654662b165887e9a ""
   "education.tex" 1757956675.87453 868 b80c693d3bdbed8d23266748ab880a8c ""
-  "experience.tex" 1757958709.89718 2905 8b25ce0b5a658c3f2e7f98873717f0c1 ""
+  "experience.tex" 1757958770.36472 2903 0ca0efb8f54e4351df100e7066926d1e ""
   "header.tex" 1757953946.05927 473 9fb01cde514bc17104d1b795c4cac052 ""
-  "main.aux" 1757958711.28744 949 058ac03e5cb8117a546ad666612b6878 "xelatex"
-  "main.out" 1757958711.2881 642 85c321f2f49365357296b64f55cc1188 "xelatex"
+  "main.aux" 1757958771.78831 949 058ac03e5cb8117a546ad666612b6878 "xelatex"
+  "main.out" 1757958771.78911 642 85c321f2f49365357296b64f55cc1188 "xelatex"
   "main.tex" 1757952087.24531 717 6f891a747bdbd64d580b9081dcee9849 ""
   "preamble.tex" 1757955484.99679 3812 8a73add23c2fe023d0e91a21674d4fd6 ""
   "skills.tex" 1757953148.89238 538 d13ebac96c658d43b8178c939461baae ""
