@@ -1,6 +1,6 @@
 %-------------------------
 % Resume in Latex
-% Author : Vaishanth
+% Author : Rishabh
 % License : MIT
 %------------------------
 
@@ -18,7 +18,8 @@
 \usepackage{tabularx}
 \usepackage{fontawesome5}
 \usepackage{multicol}
-\usepackage{graphicx}%\setmainfont{Times New Roman}
+\usepackage{graphicx}
+% \setmainfont{Times New Roman}
 \setlength{\multicolsep}{-3.0pt}
 \setlength{\columnsep}{-1pt}
 \input{glyphtounicode}
@@ -59,8 +60,10 @@
 % \setmainfont{Times New Roman}
 
 % serif
-\usepackage{CormorantGaramond}
-\usepackage{charter}
+% \usepackage{CormorantGaramond}
+% \usepackage{charter}
+\usepackage[scaled]{helvet}
+\renewcommand{\familydefault}{\sfdefault}
 
 % \pagestyle{fancy}
 % \fancyhf{}  % clear all header and footer fields
@@ -113,6 +116,13 @@
     \end{tabular*}\vspace{-7pt}
 }
 
+\newcommand{\employmentSubheading}[4]{
+  \vspace{-2pt}\item
+    \begin{tabular*}{1.0\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & \textbf{#3, #2 \hspace{0.5em} #4} \\
+    \end{tabular*}\vspace{-6pt}
+}
+
 
 \newcommand{\resumeSingleSubheading}[4]{
   \vspace{-2pt}\item
@@ -149,9 +159,12 @@
 
 \newcommand\sbullet[1][.5]{\mathbin{\vcenter{\hbox{\scalebox{#1}{$\bullet$}}}}}
 
+% Add missing employment list environment macros
+\newcommand{\employmentSubheadingListStart}{\begin{itemize}[leftmargin=0.0in, label={}]}
+\newcommand{\employmentSubheadingListEnd}{\end{itemize}}
+
 %-------------------------------------------\usepackage{fontspec}
 %%%%%%  RESUME STARTS HERE  %%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
 
 \begin{document}
 %----------HEADING----------
@@ -169,9 +182,9 @@
 
  %-----------EXPERIENCE-----------
 \section{\color{airforceblue}EMPLOYMENT EXPERIENCE}
-  \resumeSubHeadingListStart
+  \employmentSubheadingListStart
 
-    \resumeSubheading
+    \employmentSubheading
       {Lead Sonographer}{} 
       {University Health Network, Toronto, ON, Canada}{2023 - 2025}
       \resumeItemListStart
@@ -181,7 +194,7 @@
             \resumeItem{\normalsize{Improved staff retention 50\% by partnering with stakeholders to design targeted onboarding and procedural training, reducing turnover and maintaining continuity of care.}}  
       \resumeItemListEnd  
 
-    \resumeSubheading
+    \employmentSubheading
       {Sonographer}{} 
       {University Health Network, Toronto, ON, Canada}{2021 - 2023}
       \resumeItemListStart
@@ -190,24 +203,22 @@
             \resumeItem{\normalsize{Reduced documentation errors 25\% by designing EPIC training tailored to staff needs through analysis of adoption and utilization data.}}  
       \resumeItemListEnd
 
-    \resumeSubheading
+    \employmentSubheading
       {Sonography Intern}{} 
       {Humber River Hospital, Toronto, ON, Canada}{2020 - 2020}
       \resumeItemListStart
             \resumeItem{\normalsize{Boosted equipment utilization 30\% by implementing compliance-focused training on research protocols and standards, ensuring adherence to third-party guidelines.}}
             \resumeItem{\normalsize{Served as a key team member in the department's accreditation, achieving full compliance with ISO requirements.}}
     \resumeItemListEnd
-    
-\vspace{-10pt}
 
-    \resumeSubheading
+    \employmentSubheading
       {Cell Biology Laboratory Teaching Assistant}{} 
       {University of Waterloo, Waterloo, ON, Canada}{2014 - 2015}
       \resumeItemListStart
             \resumeItem{\normalsize{Designed and led weekly lab sessions and graded 250+ assessments per term, thereby boosting student performance by 15\%.}}
     \resumeItemListEnd  
       
-  \resumeSubHeadingListEnd
+  \employmentSubheadingListEnd
 \vspace{-12pt}
 
  %-----------EXPERIENCE-----------
