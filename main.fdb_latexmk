@@ -1,10 +1,10 @@
 # Fdb version 4
-["xdvipdfmx"] 1757956497.282 "main.xdv" "main.pdf" "main" 1757956497.35929 0
-  "main.xdv" 1757956497.23635 34996 14c22fc09781ff43cf865c275da312bf "xelatex"
+["xdvipdfmx"] 1757956677.34045 "main.xdv" "main.pdf" "main" 1757956677.41766 0
+  "main.xdv" 1757956677.29294 35124 76f0dbbe39c828be8409cfd8effe83e2 "xelatex"
   (generated)
   "main.pdf"
   (rewritten before read)
-["xelatex"] 1757956496.09426 "/Users/rishabh/Development/ashley_resume_latex/main.tex" "main.xdv" "main" 1757956497.35763 0
+["xelatex"] 1757956676.08523 "/Users/rishabh/Development/ashley_resume_latex/main.tex" "main.xdv" "main" 1757956677.41619 0
   "/Users/rishabh/Development/ashley_resume_latex/main.tex" 1757952087.24531 717 6f891a747bdbd64d580b9081dcee9849 ""
   "/usr/local/texlive/2025basic/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136768653 1528 f853c4d1b4e0550255e02831fdc8496f ""
   "/usr/local/texlive/2025basic/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm" 1136768653 1528 abec98dbc43e172678c11b3b9031252a ""
@@ -152,11 +152,11 @@
   "/usr/local/texlive/2025basic/texmf-var/web2c/xetex/xelatex.fmt" 1757949519 5367457 a535e1901da63c2f47d35ea3855c16cf ""
   "/usr/local/texlive/2025basic/texmf.cnf" 1741448314 628 81d1ada0f601fb1ffa62f1323192d946 ""
   "achievements.tex" 1757953049.46069 740 68833e7ac91b0645654662b165887e9a ""
-  "education.tex" 1757956495.88241 856 1f93f3a56b05d42cf8e3d2d916db0368 ""
+  "education.tex" 1757956675.87453 868 b80c693d3bdbed8d23266748ab880a8c ""
   "experience.tex" 1757955764.23171 2645 525e79e1c9eace2c683d49b154cfb8f9 ""
   "header.tex" 1757953946.05927 473 9fb01cde514bc17104d1b795c4cac052 ""
-  "main.aux" 1757956497.23531 949 058ac03e5cb8117a546ad666612b6878 "xelatex"
-  "main.out" 1757956497.23602 642 85c321f2f49365357296b64f55cc1188 "xelatex"
+  "main.aux" 1757956677.29198 949 058ac03e5cb8117a546ad666612b6878 "xelatex"
+  "main.out" 1757956677.29264 642 85c321f2f49365357296b64f55cc1188 "xelatex"
   "main.tex" 1757952087.24531 717 6f891a747bdbd64d580b9081dcee9849 ""
   "preamble.tex" 1757955484.99679 3812 8a73add23c2fe023d0e91a21674d4fd6 ""
   "skills.tex" 1757953148.89238 538 d13ebac96c658d43b8178c939461baae ""
