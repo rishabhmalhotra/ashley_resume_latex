@@ -4,8 +4,8 @@
   (generated)
   "preamble.pdf"
   (rewritten before read)
-["xelatex"] 1757954877.8673 "/Users/rishabh/Development/ashley_resume_latex/preamble.tex" "preamble.xdv" "preamble" 1757954878.99409 2
-  "/Users/rishabh/Development/ashley_resume_latex/preamble.tex" 1757954876.50154 3819 92ae556c6f4e36ee7b46decfef482484 ""
+["xelatex"] 1757955486.43721 "/Users/rishabh/Development/ashley_resume_latex/preamble.tex" "preamble.xdv" "preamble" 1757955487.50452 2
+  "/Users/rishabh/Development/ashley_resume_latex/preamble.tex" 1757955484.99679 3812 8a73add23c2fe023d0e91a21674d4fd6 ""
   "/usr/local/texlive/2025basic/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136768653 1528 f853c4d1b4e0550255e02831fdc8496f ""
   "/usr/local/texlive/2025basic/texmf-dist/tex/generic/babel-english/english.ldf" 1496785618 7008 9ff5fdcc865b01beca2b0fe4a46231d4 ""
   "/usr/local/texlive/2025basic/texmf-dist/tex/generic/babel/babel.sty" 1754247905 146665 9149bce97203d4030d7cbe4f4e85dfc4 ""
@@ -136,8 +136,8 @@
   "/usr/local/texlive/2025basic/texmf-dist/web2c/texmf.cnf" 1749313668 42213 4e2ca030e8e2640502016e9e45868dcb ""
   "/usr/local/texlive/2025basic/texmf-var/web2c/xetex/xelatex.fmt" 1757949519 5367457 a535e1901da63c2f47d35ea3855c16cf ""
   "/usr/local/texlive/2025basic/texmf.cnf" 1741448314 628 81d1ada0f601fb1ffa62f1323192d946 ""
-  "preamble.aux" 1757954869.86561 32 3985256e7290058c681f74d7a3565a19 "xelatex"
-  "preamble.tex" 1757954876.50154 3819 92ae556c6f4e36ee7b46decfef482484 ""
+  "preamble.aux" 1757955478.43562 32 3985256e7290058c681f74d7a3565a19 "xelatex"
+  "preamble.tex" 1757955484.99679 3812 8a73add23c2fe023d0e91a21674d4fd6 ""
   (generated)
   "preamble.aux"
   "preamble.log"
