@@ -1,10 +1,10 @@
 # Fdb version 4
-["xdvipdfmx"] 1757953947.42004 "main.xdv" "main.pdf" "main" 1757953947.48586 0
-  "main.xdv" 1757953947.36917 35572 2df296a06c4a40c59c793d8bdea575bd "xelatex"
+["xdvipdfmx"] 1757954957.53451 "main.xdv" "main.pdf" "main" 1757954957.60815 0
+  "main.xdv" 1757954957.48977 35732 2db4b24752043014b7b24a45bc2a2843 "xelatex"
   (generated)
   "main.pdf"
   (rewritten before read)
-["xelatex"] 1757953946.26799 "/Users/rishabh/Development/ashley_resume_latex/main.tex" "main.xdv" "main" 1757953947.48448 0
+["xelatex"] 1757954956.35844 "/Users/rishabh/Development/ashley_resume_latex/main.tex" "main.xdv" "main" 1757954957.60648 0
   "/Users/rishabh/Development/ashley_resume_latex/main.tex" 1757952087.24531 717 6f891a747bdbd64d580b9081dcee9849 ""
   "/usr/local/texlive/2025basic/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136768653 1528 f853c4d1b4e0550255e02831fdc8496f ""
   "/usr/local/texlive/2025basic/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm" 1136768653 1528 abec98dbc43e172678c11b3b9031252a ""
@@ -153,12 +153,12 @@
   "/usr/local/texlive/2025basic/texmf.cnf" 1741448314 628 81d1ada0f601fb1ffa62f1323192d946 ""
   "achievements.tex" 1757953049.46069 740 68833e7ac91b0645654662b165887e9a ""
   "education.tex" 1757953148.33948 887 8869b4a3d505d0e719d62a314905fda0 ""
-  "experience.tex" 1757953147.26044 2657 83c87da3a608ad0da9b73cbcc26f7b3e ""
+  "experience.tex" 1757954897.93309 2657 83c87da3a608ad0da9b73cbcc26f7b3e ""
   "header.tex" 1757953946.05927 473 9fb01cde514bc17104d1b795c4cac052 ""
-  "main.aux" 1757953947.36805 949 058ac03e5cb8117a546ad666612b6878 "xelatex"
-  "main.out" 1757953947.36881 642 85c321f2f49365357296b64f55cc1188 "xelatex"
+  "main.aux" 1757954957.48872 949 058ac03e5cb8117a546ad666612b6878 "xelatex"
+  "main.out" 1757954957.4894 642 85c321f2f49365357296b64f55cc1188 "xelatex"
   "main.tex" 1757952087.24531 717 6f891a747bdbd64d580b9081dcee9849 ""
-  "preamble.tex" 1757952996.07687 3817 3373f36b53c1ae0a796c6c6a35ca02a9 ""
+  "preamble.tex" 1757954956.23027 3820 e83fe56e91bf3e34f782d9e359e47eca ""
   "skills.tex" 1757953148.89238 538 d13ebac96c658d43b8178c939461baae ""
   "volunteer.tex" 1757953147.84188 512 d6d4c251ac8e14f694f877ae0fdcb571 ""
   (generated)
