@@ -1,8 +1,15 @@
+% !TEX root = main.tex
+
 %-------------------------
 % Resume in Latex
 % Author : Rishabh
 % License : MIT
 %------------------------
+
+% These lines tell TeXShop to typeset with xelatex, and to open
+% and save the source with Unicode encoding.
+%!TEX TS-program = xelatex
+%!TEX encoding = UTF-8 Unicode
 
 \documentclass[letterpaper,11pt]{article}
 
@@ -19,10 +26,8 @@
 \usepackage{fontawesome5}
 \usepackage{multicol}
 \usepackage{graphicx}
-% \setmainfont{Times New Roman}
 \setlength{\multicolsep}{-3.0pt}
 \setlength{\columnsep}{-1pt}
-\input{glyphtounicode}
 
 \RequirePackage{tikz}
 \RequirePackage{xcolor}
@@ -60,10 +65,17 @@
 % \setmainfont{Times New Roman}
 
 % serif
+% Default font setup
 % \usepackage{CormorantGaramond}
 % \usepackage{charter}
-\usepackage[scaled]{helvet}
-\renewcommand{\familydefault}{\sfdefault}
+
+% Custom font setup with pdflatex
+% \usepackage[scaled]{helvet}
+% \renewcommand{\familydefault}{\sfdefault}
+
+% This works with xelatex as the default Arial is natively supported
+\usepackage{fontspec}
+\setmainfont{Arial}
 
 % \pagestyle{fancy}
 % \fancyhf{}  % clear all header and footer fields
@@ -89,9 +101,6 @@
 \titleformat{\section}{
   \vspace{-4pt}\scshape\raggedright\large\bfseries
 }{}{0em}{}[\color{black}\titlerule \vspace{-5pt}]
-
-% Ensure that generate pdf is machine readable/ATS parsable
-\pdfgentounicode=1
 
 %-------------------------
 % Custom commands
