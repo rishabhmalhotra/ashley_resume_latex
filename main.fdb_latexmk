@@ -1,11 +1,11 @@
 # Fdb version 4
-["xdvipdfmx"] 1757959250.16521 "main.xdv" "main.pdf" "main" 1757959250.24192 0
-  "main.xdv" 1757959250.12056 37636 b43dbdbdafb7c523b2584d713059adff "xelatex"
+["xdvipdfmx"] 1757960279.5796 "main.xdv" "main.pdf" "main" 1757960279.65189 0
+  "main.xdv" 1757960279.5313 37456 7e0c03c8832be71824d72ff4443b071d "xelatex"
   (generated)
   "main.pdf"
   (rewritten before read)
-["xelatex"] 1757959249.0459 "/Users/rishabh/Development/ashley_resume_latex/main.tex" "main.xdv" "main" 1757959250.24055 0
-  "/Users/rishabh/Development/ashley_resume_latex/main.tex" 1757959171.49526 211 5736f1ec776ce5811a9522300e2295b5 ""
+["xelatex"] 1757960278.43283 "/Users/rishabh/Development/ashley_resume_latex/main.tex" "main.xdv" "main" 1757960279.65051 0
+  "/Users/rishabh/Development/ashley_resume_latex/main.tex" 1757960212.04135 210 99f7d2e077dc6d54a698b5cf47aeb46a ""
   "/usr/local/texlive/2025basic/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136768653 1528 f853c4d1b4e0550255e02831fdc8496f ""
   "/usr/local/texlive/2025basic/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm" 1136768653 1528 abec98dbc43e172678c11b3b9031252a ""
   "/usr/local/texlive/2025basic/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm" 1136768653 1512 f21f83efb36853c0b70002322c1ab3ad ""
@@ -151,13 +151,13 @@
   "/usr/local/texlive/2025basic/texmf-dist/web2c/texmf.cnf" 1749313668 42213 4e2ca030e8e2640502016e9e45868dcb ""
   "/usr/local/texlive/2025basic/texmf-var/web2c/xetex/xelatex.fmt" 1757949519 5367457 a535e1901da63c2f47d35ea3855c16cf ""
   "/usr/local/texlive/2025basic/texmf.cnf" 1741448314 628 81d1ada0f601fb1ffa62f1323192d946 ""
-  "achievements.tex" 1757953049.46069 740 68833e7ac91b0645654662b165887e9a ""
-  "education.tex" 1757959248.83825 868 a1bf6b461c827c1860154a389c990a3a ""
+  "achievements.tex" 1757960278.23145 449 d88ae06a2a41b7db5d897603bd402e4c ""
+  "education.tex" 1757959261.87034 868 a1bf6b461c827c1860154a389c990a3a ""
   "experience.tex" 1757958770.36472 2903 0ca0efb8f54e4351df100e7066926d1e ""
   "header.tex" 1757953946.05927 473 9fb01cde514bc17104d1b795c4cac052 ""
-  "main.aux" 1757959250.11962 949 9bd7a1d00226c033660e1aaaa1995c8d "xelatex"
-  "main.out" 1757959250.12026 642 7389f16717172b0de38e8e2d20a87c44 "xelatex"
-  "main.tex" 1757959171.49526 211 5736f1ec776ce5811a9522300e2295b5 ""
+  "main.aux" 1757960279.53028 949 9bd7a1d00226c033660e1aaaa1995c8d "xelatex"
+  "main.out" 1757960279.53095 642 7389f16717172b0de38e8e2d20a87c44 "xelatex"
+  "main.tex" 1757960212.04135 210 99f7d2e077dc6d54a698b5cf47aeb46a ""
   "preamble.tex" 1757955484.99679 3812 8a73add23c2fe023d0e91a21674d4fd6 ""
   "skills.tex" 1757959240.54991 538 600ba3b4d059719c69d0684cbdb113dd ""
   "volunteer.tex" 1757958689.47134 535 c423b026dbba1d655e9cc2b06e250720 ""
