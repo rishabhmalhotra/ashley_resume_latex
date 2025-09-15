@@ -1,0 +1,303 @@
+%-------------------------
+% Resume in Latex
+% Author : Vaishanth
+% License : MIT
+%------------------------
+
+\documentclass[letterpaper,11pt]{article}
+
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+\usepackage[english]{babel}
+\usepackage{tabularx}
+\usepackage{fontawesome5}
+\usepackage{multicol}
+\usepackage{graphicx}%\setmainfont{Times New Roman}
+\setlength{\multicolsep}{-3.0pt}
+\setlength{\columnsep}{-1pt}
+\input{glyphtounicode}
+
+\RequirePackage{tikz}
+\RequirePackage{xcolor}
+
+\definecolor{cvblue}{HTML}{0E5484}
+\definecolor{black}{HTML}{130810}
+\definecolor{darkcolor}{HTML}{0F4539}
+\definecolor{cvgreen}{HTML}{3BD80D}
+\definecolor{taggreen}{HTML}{00E278}
+\definecolor{SlateGrey}{HTML}{2E2E2E}
+\definecolor{LightGrey}{HTML}{666666}
+\colorlet{name}{black}
+\colorlet{tagline}{darkcolor}
+\colorlet{heading}{darkcolor}
+\colorlet{headingrule}{cvblue}
+\colorlet{accent}{darkcolor}
+\colorlet{emphasis}{SlateGrey}
+\colorlet{body}{LightGrey}
+
+%----------FONT OPTIONS----------
+% sans-serif
+% \usepackage[sfdefault]{FiraSans}
+% \usepackage[sfdefault]{roboto}
+% \usepackage[sfdefault]{noto-sans}
+% \usepackage[default]{sourcesanspro}
+
+% \usepackage[T1]{fontenc}
+% \usepackage[T1]{fontenc}
+% \usepackage{cochineal}
+% \usepackage{fourier}
+
+% \usepackage{fontspec}
+% \usepackage{polyglossia}
+% \setmainlanguage{german}
+% \setmainfont{Times New Roman}
+
+% serif
+\usepackage{CormorantGaramond}
+\usepackage{charter}
+
+% \pagestyle{fancy}
+% \fancyhf{}  % clear all header and footer fields
+% \fancyfoot{}
+% \renewcommand{\headrulewidth}{0pt}
+% \renewcommand{\footrulewidth}{0pt}
+
+% Adjust margins
+\addtolength{\oddsidemargin}{-0.6in}
+\addtolength{\evensidemargin}{-0.5in}
+\addtolength{\textwidth}{1.19in}
+\addtolength{\topmargin}{-.7in}
+\addtolength{\textheight}{1.4in}
+\urlstyle{same}
+
+\definecolor{airforceblue}{rgb}{0.36, 0.54, 0.66}
+
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+% Sections formatting
+\titleformat{\section}{
+  \vspace{-4pt}\scshape\raggedright\large\bfseries
+}{}{0em}{}[\color{black}\titlerule \vspace{-5pt}]
+
+% Ensure that generate pdf is machine readable/ATS parsable
+\pdfgentounicode=1
+
+%-------------------------
+% Custom commands
+\newcommand{\resumeItem}[1]{
+  \item\small{
+    {#1 \vspace{-1pt}}
+  }
+}
+
+\newcommand{\classesList}[4]{
+    \item\small{
+        {#1 #2 #3 #4 \vspace{-2pt}}
+  }
+}
+
+\newcommand{\resumeSubheading}[4]{
+  \vspace{-2pt}\item
+    \begin{tabular*}{1.0\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{\large#1} & \textbf{\small #2} \\
+      \textit{\large#3} & \textit{\small #4} \\
+      
+    \end{tabular*}\vspace{-7pt}
+}
+
+
+\newcommand{\resumeSingleSubheading}[4]{
+  \vspace{-2pt}\item
+    \begin{tabular*}{1.0\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{\large#1} & \textbf{\small #2} \\
+      
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeSubSubheading}[2]{
+    \item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \textit{\small#1} & \textit{\small #2} \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+
+\newcommand{\resumeProjectHeading}[2]{
+    \item
+    \begin{tabular*}{1.001\textwidth}{l@{\extracolsep{\fill}}r}
+      \small#1 & \textbf{\small #2}\\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeSubItem}[1]{\resumeItem{#1}\vspace{-4pt}}
+
+\renewcommand\labelitemi{$\vcenter{\hbox{\tiny$\bullet$}}$}
+\renewcommand\labelitemii{$\vcenter{\hbox{\tiny$\bullet$}}$}
+
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=0.0in, label={}]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}[leftmargin=0.1in]}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+
+\newcommand\sbullet[1][.5]{\mathbin{\vcenter{\hbox{\scalebox{#1}{$\bullet$}}}}}
+
+%-------------------------------------------\usepackage{fontspec}
+%%%%%%  RESUME STARTS HERE  %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\begin{document}
+%----------HEADING----------
+
+
+\begin{center}
+    {\huge Ashley Mathews} \\ \vspace{2pt} 
+    {+1 (519) 589 0216}
+    \small{-}
+    \href{mailto:[enter your email id]}{\color{blue}{ashley.mathews@rotman.utoronto.ca}}
+    \small{-}
+     \color{blue}{\href{https://www.linkedin.com/in/ashley-m-141ba3300}{linkedin.com/in/ashley-m-141ba3300}}
+    \vspace{-7pt}
+\end{center}
+
+ %-----------EXPERIENCE-----------
+\section{\color{airforceblue}EMPLOYMENT EXPERIENCE}
+  \resumeSubHeadingListStart
+
+    \resumeSubheading
+      {Lead Sonographer}{} 
+      {University Health Network, Toronto, ON, Canada}{2023 - 2025}
+      \resumeItemListStart
+            \resumeItem{\normalsize{Boosted appointment capacity 12\% by applying linear regression to key variables with findings presented to management and adopted as policy.}}
+            \resumeItem{\normalsize{Improved patient throughput 6\% across 3 hospitals by applying time-series analysis of traffic patterns to reduce bottlenecks, leading to management-approved policy change.}}  
+            \resumeItem{\normalsize{Improved staff retention 50\% by partnering with stakeholders to design targeted onboarding and procedural training, reducing turnover and maintaining continuity of care.}}  
+      \resumeItemListEnd  
+
+    \resumeSubheading
+      {Sonographer}{} 
+      {University Health Network, Toronto, ON, Canada}{2021 - 2023}
+      \resumeItemListStart
+            \resumeItem{\normalsize{Increased client satisfaction scores 10\% by applying correlation analysis of patient feedback and departmental performance to align workflows across 12+ departments.}}
+            \resumeItem{\normalsize{Eliminated 60-minute client wait times and increased daily appointment volume by optimizing scheduling workflows.}}  
+            \resumeItem{\normalsize{Reduced documentation errors 25\% by designing EPIC training tailored to staff needs through analysis of adoption and utilization data.}}  
+      \resumeItemListEnd
+
+    \resumeSubheading
+      {Sonography Intern}{} 
+      {Humber River Hospital, Toronto, ON, Canada}{2020 - 2020}
+      \resumeItemListStart
+            \resumeItem{\normalsize{Boosted equipment utilization 30\% by implementing compliance-focused training on research protocols and standards, ensuring adherence to third-party guidelines.}}
+            \resumeItem{\normalsize{Served as a key team member in the department's accreditation, achieving full compliance with ISO requirements.}}
+    \resumeItemListEnd
+    
+\vspace{-10pt}
+
+    \resumeSubheading
+      {Cell Biology Laboratory Teaching Assistant}{} 
+      {University of Waterloo, Waterloo, ON, Canada}{2014 - 2015}
+      \resumeItemListStart
+            \resumeItem{\normalsize{Designed and led weekly lab sessions and graded 250+ assessments per term, thereby boosting student performance by 15\%.}}
+    \resumeItemListEnd  
+      
+  \resumeSubHeadingListEnd
+\vspace{-12pt}
+
+ %-----------EXPERIENCE-----------
+\section{\color{airforceblue}VOLUNTEER WORK}
+  \resumeSubHeadingListStart
+
+    \resumeSubheading
+      {Ultrasound Student Advisor \& Program Representative}{} 
+      {St Clair College, Windsor, ON, Canada}{2018 - 2020}
+      \resumeItemListStart
+            \resumeItem{\normalsize{Increased student participation 20\% by collaborating with faculty and student services to deliver engaging workshops and programs.}}
+      \resumeItemListEnd  
+      
+  \resumeSubHeadingListEnd
+\vspace{-12pt}
+
+%-----------EDUCATION-----------
+\section{\color{airforceblue}EDUCATION}
+  \resumeSubHeadingListStart
+    \resumeSubheading
+      {Rotman School of Management, University of Toronto}{Toronto, ON, Canada}
+      {MBA Candidate}{2027}
+    \vspace{-4pt}
+     \resumeSubheading
+      {St Clair College}{Windsor, ON, Canada}
+      {Diagnostic Medical Sonography Advanced Diploma}{2021}
+      \vspace{-4pt}
+      \resumeSubheading
+      {College of Medical Radiation and Imaging Technologists of Ontario}{ Canada}
+      {Certification}{2021}
+      \vspace{-4pt}
+      \resumeSubheading
+      {American Registry for Diagnostic Medical Sonography}{USA}
+      {Certification}{2020}
+      \vspace{-4pt}
+      \resumeSubheading
+      {University of Waterloo}{Waterloo, ON, Canada}
+      {Bachelor of Science, Honors Biomedical Sciences, Psychology Minor}{2017}
+  \resumeSubHeadingListEnd
+  \vspace{-10pt}
+
+
+ %-----------PROJECTS-----------
+\section{\color{airforceblue}ADDITIONAL ACHIEVEMENTS}    
+    \resumeItemListStart
+        \vspace{0.5pt}
+        \resumeItem{\normalsize{Joint Department of Medical Imaging (JDMI) Equipping the Future Scholarship, 2024}}
+        \vspace{-5pt}
+        \resumeItem{\normalsize{Recipient of the Sonography Symposium Presentation Award, 2019}}
+        \vspace{-5pt}
+        
+        % \resumeItem{\normalsize{\textbf{Project 2 title}, Vivamus nec consequat nisi. Suspendisse potenti. Sed consectetur elit sed aliquam eleifend. Sed nec quam et urna placerat placerat.} \href{[url to project demo]}{\color{blue}\underline{Try it!}}}
+        % \vspace{-5pt}
+
+        % copy and paste above resumeItem block to add more 
+        
+    \resumeItemListEnd  
+   
+ % \vspace{-12pt}
+%
+
+%-----------PROGRAMMING SKILLS-----------
+\section{\color{airforceblue} TECHNICAL SKILLS}
+ \begin{itemize}[leftmargin=0in, label={}]
+    \small{\item{
+     \textbf{\normalsize{Languages and Tools:}}{ \normalsize{SQL, Dashboard, Power BI, CORAL, Meditech, Velox, PACS, EPIC, EPR, Toshiba, Canon, Philips, Samsung, GE, Siemens}} \\
+      \vspace{1.2pt}
+      
+     % \textbf{\normalsize{Libraries and Tools:}}{ \normalsize{PyTorch,  Sklearn, Pandas, Numpy, OpenCV, Git, Docker}} \\
+     %  \vspace{1.2pt}
+      
+     % \textbf{\normalsize{ML Architectures:}}{ \normalsize{CNN, YOLO, Transformers(BERT, LSTM), RAFT}}
+
+     % copy and paste above textbf block to add more 
+     }}
+ \end{itemize}
+ \vspace{-16pt}
+
+% %-----------EXTRACURRICULAR---------------
+% \section{\color{airforceblue}EXTRACURRICULAR ACTIVITIES}
+    
+%       \resumeItemListStart
+%         \resumeItem{\normalsize{\textbf{Event Coordinator} in univesrity Club - {Month Year - Month Year} }} 
+%         \vspace{-5pt}
+        
+%         \resumeItem{\normalsize{\textbf{Executive member} in Robotics Club - } {Month Year - Month Year}}    
+%         \vspace{-5pt}
+
+%         % copy and paste above resumeItem block to add more 
+%       \resumeItemListEnd 
+      
+% \vspace{-12pt}
+
+\end{document}
