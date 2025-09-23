@@ -289,10 +289,10 @@ INPUT volunteer.tex
 INPUT ./achievements.tex
 INPUT ./achievements.tex
 INPUT achievements.tex
-OUTPUT main.xdv
 INPUT ./skills.tex
 INPUT ./skills.tex
 INPUT skills.tex
+OUTPUT main.xdv
 INPUT main.aux
 INPUT ./main.out
 INPUT ./main.out
