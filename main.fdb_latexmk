@@ -1,10 +1,10 @@
 # Fdb version 4
-["xdvipdfmx"] 1758665908.21772 "main.xdv" "main.pdf" "main" 1758665908.28867 0
-  "main.xdv" 1758665908.1746 39780 020ea3db2c698e379137a5ae9c1a76f0 "xelatex"
+["xdvipdfmx"] 1758665994.05156 "main.xdv" "main.pdf" "main" 1758665994.12436 0
+  "main.xdv" 1758665994.00688 38912 dad15f0ae5936f299e244ed620b283dc "xelatex"
   (generated)
   "main.pdf"
   (rewritten before read)
-["xelatex"] 1758665907.09677 "/Users/rishabh/Development/ashley_resume_latex/main.tex" "main.xdv" "main" 1758665908.28743 0
+["xelatex"] 1758665992.93667 "/Users/rishabh/Development/ashley_resume_latex/main.tex" "main.xdv" "main" 1758665994.12292 0
   "/Users/rishabh/Development/ashley_resume_latex/main.tex" 1758665875.40541 210 e8f21959d6bc44e3db159ff924b2c3a7 ""
   "/usr/local/texlive/2025basic/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136768653 1528 f853c4d1b4e0550255e02831fdc8496f ""
   "/usr/local/texlive/2025basic/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm" 1136768653 1528 abec98dbc43e172678c11b3b9031252a ""
@@ -155,11 +155,11 @@
   "education.tex" 1758665905.70856 861 ee72c855812c04e4b1648c6614177a7c ""
   "experience.tex" 1758580447.46749 3124 5476c5817f1bc6dce0954834a0d750ce ""
   "header.tex" 1757953946.05927 473 9fb01cde514bc17104d1b795c4cac052 ""
-  "main.aux" 1758665908.17353 938 4749ec4d4e9b1a6f0865ff73a7f0043b "xelatex"
-  "main.out" 1758665908.17432 584 054f336825b47c65b8fac977e41ede96 "xelatex"
+  "main.aux" 1758665994.00583 928 db33b67a2183325f9a474deb7c9cbeab "xelatex"
+  "main.out" 1758665994.00656 531 ede9ab162a839080221e46fc684d6a44 "xelatex"
   "main.tex" 1758665875.40541 210 e8f21959d6bc44e3db159ff924b2c3a7 ""
   "preamble.tex" 1757973535.01375 3998 dc38d6e001dcab3394795fc925a566d3 ""
-  "skills.tex" 1758580862.03462 541 7b15ecfd730f1e00233c90b6ab658074 ""
+  "skills.tex" 1758665992.72195 535 3de98a1046444fcd0450d602b908e772 ""
   "volunteer.tex" 1757973559.49178 535 c423b026dbba1d655e9cc2b06e250720 ""
   (generated)
   "main.aux"
