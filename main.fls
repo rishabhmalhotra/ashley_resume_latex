@@ -259,9 +259,9 @@ OUTPUT main.out
 INPUT ./header.tex
 INPUT ./header.tex
 INPUT header.tex
-INPUT ./experience.tex
-INPUT ./experience.tex
-INPUT experience.tex
+INPUT ./education.tex
+INPUT ./education.tex
+INPUT education.tex
 INPUT /usr/local/texlive/2025basic/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm
 INPUT /usr/local/texlive/2025basic/texmf-dist/fonts/tfm/public/cm/cmmi8.tfm
 INPUT /usr/local/texlive/2025basic/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm
@@ -278,6 +278,9 @@ INPUT /usr/local/texlive/2025basic/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
 INPUT /usr/local/texlive/2025basic/texmf-dist/fonts/tfm/public/cm/cmr8.tfm
 INPUT /usr/local/texlive/2025basic/texmf-dist/fonts/tfm/public/cm/cmr6.tfm
 INPUT /usr/local/texlive/2025basic/texmf-dist/fonts/tfm/public/latex-fonts/lasy5.tfm
+INPUT ./experience.tex
+INPUT ./experience.tex
+INPUT experience.tex
 INPUT /usr/local/texlive/2025basic/texmf-dist/fonts/tfm/public/latex-fonts/lasy10.tfm
 INPUT /usr/local/texlive/2025basic/texmf-dist/fonts/tfm/public/latex-fonts/lasy7.tfm
 INPUT ./volunteer.tex
@@ -286,13 +289,10 @@ INPUT volunteer.tex
 INPUT ./achievements.tex
 INPUT ./achievements.tex
 INPUT achievements.tex
+OUTPUT main.xdv
 INPUT ./skills.tex
 INPUT ./skills.tex
 INPUT skills.tex
-INPUT ./education.tex
-INPUT ./education.tex
-INPUT education.tex
-OUTPUT main.xdv
 INPUT main.aux
 INPUT ./main.out
 INPUT ./main.out

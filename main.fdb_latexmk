@@ -1,11 +1,11 @@
 # Fdb version 4
-["xdvipdfmx"] 1758580863.44205 "main.xdv" "main.pdf" "main" 1758580863.51053 0
-  "main.xdv" 1758580863.3948 41172 1e3df53711d08bf350b26c523642640c "xelatex"
+["xdvipdfmx"] 1758665879.2104 "main.xdv" "main.pdf" "main" 1758665879.3575 0
+  "main.xdv" 1758665879.16622 41172 1fad73d8716fb517e7720897163f7071 "xelatex"
   (generated)
   "main.pdf"
   (rewritten before read)
-["xelatex"] 1758580862.22716 "/Users/rishabh/Development/ashley_resume_latex/main.tex" "main.xdv" "main" 1758580863.50911 0
-  "/Users/rishabh/Development/ashley_resume_latex/main.tex" 1757972848.10979 210 99f7d2e077dc6d54a698b5cf47aeb46a ""
+["xelatex"] 1758665878.09946 "/Users/rishabh/Development/ashley_resume_latex/main.tex" "main.xdv" "main" 1758665879.35614 0
+  "/Users/rishabh/Development/ashley_resume_latex/main.tex" 1758665875.40541 210 e8f21959d6bc44e3db159ff924b2c3a7 ""
   "/usr/local/texlive/2025basic/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136768653 1528 f853c4d1b4e0550255e02831fdc8496f ""
   "/usr/local/texlive/2025basic/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm" 1136768653 1528 abec98dbc43e172678c11b3b9031252a ""
   "/usr/local/texlive/2025basic/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm" 1136768653 1512 f21f83efb36853c0b70002322c1ab3ad ""
@@ -155,9 +155,9 @@
   "education.tex" 1758580791.38563 1108 d007f708bde49dbff348a3ce16dac76b ""
   "experience.tex" 1758580447.46749 3124 5476c5817f1bc6dce0954834a0d750ce ""
   "header.tex" 1757953946.05927 473 9fb01cde514bc17104d1b795c4cac052 ""
-  "main.aux" 1758580863.39372 938 b39ddc9d4b7963016bd8164e2d04848c "xelatex"
-  "main.out" 1758580863.39436 584 4eed91f8161f6dcf8119d1e6f547c3ac "xelatex"
-  "main.tex" 1757972848.10979 210 99f7d2e077dc6d54a698b5cf47aeb46a ""
+  "main.aux" 1758665879.16515 938 0065eb2fc51d2463cb5774f2afa13060 "xelatex"
+  "main.out" 1758665879.16594 584 054f336825b47c65b8fac977e41ede96 "xelatex"
+  "main.tex" 1758665875.40541 210 e8f21959d6bc44e3db159ff924b2c3a7 ""
   "preamble.tex" 1757973535.01375 3998 dc38d6e001dcab3394795fc925a566d3 ""
   "skills.tex" 1758580862.03462 541 7b15ecfd730f1e00233c90b6ab658074 ""
   "volunteer.tex" 1757973559.49178 535 c423b026dbba1d655e9cc2b06e250720 ""
