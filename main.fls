@@ -283,16 +283,13 @@ INPUT ./experience.tex
 INPUT experience.tex
 INPUT /usr/local/texlive/2025basic/texmf-dist/fonts/tfm/public/latex-fonts/lasy10.tfm
 INPUT /usr/local/texlive/2025basic/texmf-dist/fonts/tfm/public/latex-fonts/lasy7.tfm
-INPUT ./volunteer.tex
-INPUT ./volunteer.tex
-INPUT volunteer.tex
-OUTPUT main.xdv
 INPUT ./achievements.tex
 INPUT ./achievements.tex
 INPUT achievements.tex
 INPUT ./skills.tex
 INPUT ./skills.tex
 INPUT skills.tex
+OUTPUT main.xdv
 INPUT main.aux
 INPUT ./main.out
 INPUT ./main.out
