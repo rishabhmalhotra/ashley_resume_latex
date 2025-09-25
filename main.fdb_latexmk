@@ -1,10 +1,10 @@
 # Fdb version 4
-["xdvipdfmx"] 1758665994.05156 "main.xdv" "main.pdf" "main" 1758665994.12436 0
-  "main.xdv" 1758665994.00688 38912 dad15f0ae5936f299e244ed620b283dc "xelatex"
+["xdvipdfmx"] 1758804570.78584 "main.xdv" "main.pdf" "main" 1758804570.86973 0
+  "main.xdv" 1758804570.73029 41684 e3de80ca42f55455d70e07d93c668b4e "xelatex"
   (generated)
   "main.pdf"
   (rewritten before read)
-["xelatex"] 1758665992.93667 "/Users/rishabh/Development/ashley_resume_latex/main.tex" "main.xdv" "main" 1758665994.12292 0
+["xelatex"] 1758804569.51561 "/Users/rishabh/Development/ashley_resume_latex/main.tex" "main.xdv" "main" 1758804570.86824 0
   "/Users/rishabh/Development/ashley_resume_latex/main.tex" 1758665875.40541 210 e8f21959d6bc44e3db159ff924b2c3a7 ""
   "/usr/local/texlive/2025basic/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136768653 1528 f853c4d1b4e0550255e02831fdc8496f ""
   "/usr/local/texlive/2025basic/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm" 1136768653 1528 abec98dbc43e172678c11b3b9031252a ""
@@ -152,11 +152,11 @@
   "/usr/local/texlive/2025basic/texmf-var/web2c/xetex/xelatex.fmt" 1757949519 5367457 a535e1901da63c2f47d35ea3855c16cf ""
   "/usr/local/texlive/2025basic/texmf.cnf" 1741448314 628 81d1ada0f601fb1ffa62f1323192d946 ""
   "achievements.tex" 1758580839.29196 399 6eeb8eeb844dd163e5cd400dd4962d97 ""
-  "education.tex" 1758665905.70856 861 ee72c855812c04e4b1648c6614177a7c ""
+  "education.tex" 1758804569.30879 1256 5265cc84f83c8e200587675a9dc58967 ""
   "experience.tex" 1758580447.46749 3124 5476c5817f1bc6dce0954834a0d750ce ""
   "header.tex" 1757953946.05927 473 9fb01cde514bc17104d1b795c4cac052 ""
-  "main.aux" 1758665994.00583 928 db33b67a2183325f9a474deb7c9cbeab "xelatex"
-  "main.out" 1758665994.00656 531 ede9ab162a839080221e46fc684d6a44 "xelatex"
+  "main.aux" 1758804570.72893 928 897e3677671fc8c086ee1681506ef529 "xelatex"
+  "main.out" 1758804570.72994 531 ede9ab162a839080221e46fc684d6a44 "xelatex"
   "main.tex" 1758665875.40541 210 e8f21959d6bc44e3db159ff924b2c3a7 ""
   "preamble.tex" 1757973535.01375 3998 dc38d6e001dcab3394795fc925a566d3 ""
   "skills.tex" 1758665992.72195 535 3de98a1046444fcd0450d602b908e772 ""
