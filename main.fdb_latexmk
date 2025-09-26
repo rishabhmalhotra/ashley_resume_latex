@@ -1,10 +1,10 @@
 # Fdb version 4
-["xdvipdfmx"] 1758808386.79357 "main.xdv" "main.pdf" "main" 1758808386.87091 0
-  "main.xdv" 1758808386.74733 37464 4e58fc9a2d7e2680906a3e1bba4c85fd "xelatex"
+["xdvipdfmx"] 1758852336.71423 "main.xdv" "main.pdf" "main" 1758852336.78533 0
+  "main.xdv" 1758852336.66971 37252 abd835f9efa0f2e3e392f140aeb055cb "xelatex"
   (generated)
   "main.pdf"
   (rewritten before read)
-["xelatex"] 1758808385.59952 "/Users/rishabh/Development/ashley_resume_latex/main.tex" "main.xdv" "main" 1758808386.8696 0
+["xelatex"] 1758852335.58081 "/Users/rishabh/Development/ashley_resume_latex/main.tex" "main.xdv" "main" 1758852336.78376 0
   "/Users/rishabh/Development/ashley_resume_latex/main.tex" 1758807814.78423 212 09a9e9964ff6a9ef99b4396671c90c9b ""
   "/usr/local/texlive/2025basic/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136768653 1528 f853c4d1b4e0550255e02831fdc8496f ""
   "/usr/local/texlive/2025basic/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm" 1136768653 1528 abec98dbc43e172678c11b3b9031252a ""
@@ -153,10 +153,10 @@
   "/usr/local/texlive/2025basic/texmf.cnf" 1741448314 628 81d1ada0f601fb1ffa62f1323192d946 ""
   "achievements.tex" 1758580839.29196 399 6eeb8eeb844dd163e5cd400dd4962d97 ""
   "education.tex" 1758808385.36345 1334 61d90c8fa7fdf70476156da14922836f ""
-  "experience.tex" 1758807756.45017 3111 0ba4e81a26e71d4a2a74e9ada0efcd1b ""
+  "experience.tex" 1758852335.37229 3105 04a9b8b900104561e48a1af6c3b05592 ""
   "header.tex" 1757953946.05927 473 9fb01cde514bc17104d1b795c4cac052 ""
-  "main.aux" 1758808386.74634 790 5402d5846402b3809327cf7a71bf0a07 "xelatex"
-  "main.out" 1758808386.74699 415 0c55cfce41b8c6c385e5c55718c957aa "xelatex"
+  "main.aux" 1758852336.66871 790 5402d5846402b3809327cf7a71bf0a07 "xelatex"
+  "main.out" 1758852336.66938 415 0c55cfce41b8c6c385e5c55718c957aa "xelatex"
   "main.tex" 1758807814.78423 212 09a9e9964ff6a9ef99b4396671c90c9b ""
   "preamble.tex" 1757973535.01375 3998 dc38d6e001dcab3394795fc925a566d3 ""
   "skills.tex" 1758665992.72195 535 3de98a1046444fcd0450d602b908e772 ""
