@@ -1,10 +1,10 @@
 # Fdb version 4
-["xdvipdfmx"] 1761170595.99208 "main.xdv" "main.pdf" "main" 1761170596.06466 0
-  "main.xdv" 1761170595.94936 35984 b99034c07384d6bb3313148fb7654d68 "xelatex"
+["xdvipdfmx"] 1761170765.93093 "main.xdv" "main.pdf" "main" 1761170766.00197 0
+  "main.xdv" 1761170765.88829 35944 702003da97a17921de2a62562ccd71ae "xelatex"
   (generated)
   "main.pdf"
   (rewritten before read)
-["xelatex"] 1761170594.86828 "/Users/rishabh/Development/ashley_resume_latex/main.tex" "main.xdv" "main" 1761170596.06342 0
+["xelatex"] 1761170764.82224 "/Users/rishabh/Development/ashley_resume_latex/main.tex" "main.xdv" "main" 1761170766.00069 0
   "/Users/rishabh/Development/ashley_resume_latex/main.tex" 1758807814.78423 212 09a9e9964ff6a9ef99b4396671c90c9b ""
   "/usr/local/texlive/2025basic/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136768653 1528 f853c4d1b4e0550255e02831fdc8496f ""
   "/usr/local/texlive/2025basic/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm" 1136768653 1528 abec98dbc43e172678c11b3b9031252a ""
@@ -153,10 +153,10 @@
   "/usr/local/texlive/2025basic/texmf.cnf" 1741448314 628 81d1ada0f601fb1ffa62f1323192d946 ""
   "achievements.tex" 1761170436.45837 472 e7d632cc9eae16f6788e1808d77263f9 ""
   "education.tex" 1761170594.65542 1268 a4b88bdb0c357ab68920d6996fc1cfe9 ""
-  "experience.tex" 1759105533.76015 2999 f70344ac55cf68fcd750187d7b8beefc ""
+  "experience.tex" 1761170764.59842 2995 d254341610af54b3ec511ec6b106774b ""
   "header.tex" 1757953946.05927 473 9fb01cde514bc17104d1b795c4cac052 ""
-  "main.aux" 1761170595.94844 790 5402d5846402b3809327cf7a71bf0a07 "xelatex"
-  "main.out" 1761170595.94907 415 0c55cfce41b8c6c385e5c55718c957aa "xelatex"
+  "main.aux" 1761170765.88735 790 5402d5846402b3809327cf7a71bf0a07 "xelatex"
+  "main.out" 1761170765.88801 415 0c55cfce41b8c6c385e5c55718c957aa "xelatex"
   "main.tex" 1758807814.78423 212 09a9e9964ff6a9ef99b4396671c90c9b ""
   "preamble.tex" 1757973535.01375 3998 dc38d6e001dcab3394795fc925a566d3 ""
   "skills.tex" 1758852649.88557 506 79719ac52cad365bc303f2b7efe5866c ""
