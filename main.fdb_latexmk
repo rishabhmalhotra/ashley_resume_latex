@@ -1,10 +1,10 @@
 # Fdb version 4
-["xdvipdfmx"] 1762128583.43474 "main.xdv" "main.pdf" "main" 1762128583.5073 0
-  "main.xdv" 1762128583.39128 35992 9a7a142d9b0c1fdf4b7b7daaf7b6b06c "xelatex"
+["xdvipdfmx"] 1762129685.22932 "main.xdv" "main.pdf" "main" 1762129685.30121 0
+  "main.xdv" 1762129685.18292 35992 5854658674e89f42a086222a9220b26b "xelatex"
   (generated)
   "main.pdf"
   (rewritten before read)
-["xelatex"] 1762128582.28512 "/Users/rishabh/Development/ashley_resume_latex/main.tex" "main.xdv" "main" 1762128583.50606 0
+["xelatex"] 1762129684.10561 "/Users/rishabh/Development/ashley_resume_latex/main.tex" "main.xdv" "main" 1762129685.29991 0
   "/Users/rishabh/Development/ashley_resume_latex/main.tex" 1762120618.28439 212 09a9e9964ff6a9ef99b4396671c90c9b ""
   "/usr/local/texlive/2025basic/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136768653 1528 f853c4d1b4e0550255e02831fdc8496f ""
   "/usr/local/texlive/2025basic/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm" 1136768653 1528 abec98dbc43e172678c11b3b9031252a ""
@@ -151,12 +151,12 @@
   "/usr/local/texlive/2025basic/texmf-dist/web2c/texmf.cnf" 1749313668 42213 4e2ca030e8e2640502016e9e45868dcb ""
   "/usr/local/texlive/2025basic/texmf-var/web2c/xetex/xelatex.fmt" 1757949519 5367457 a535e1901da63c2f47d35ea3855c16cf ""
   "/usr/local/texlive/2025basic/texmf.cnf" 1741448314 628 81d1ada0f601fb1ffa62f1323192d946 ""
-  "achievements.tex" 1762128469.18923 487 501a18f943156f5dfead43cf86323360 ""
-  "education.tex" 1762128338.82979 1360 5526c2d1769f2e4c33b0b633ae8e9fde ""
-  "experience.tex" 1762128374.28234 2940 9498f31c0a4ad9edb9d6de5ac3f0aed2 ""
+  "achievements.tex" 1762129678.81055 487 a5f7f237e97a2d749cce66789dcea23f ""
+  "education.tex" 1762129682.7715 1428 d72bb31b6e9b5efff8621985b67755d7 ""
+  "experience.tex" 1762129633.27526 2939 be72ef4ec9b6584e3e2962e856469502 ""
   "header.tex" 1757953946.05927 473 9fb01cde514bc17104d1b795c4cac052 ""
-  "main.aux" 1762128583.39036 790 5402d5846402b3809327cf7a71bf0a07 "xelatex"
-  "main.out" 1762128583.391 415 0c55cfce41b8c6c385e5c55718c957aa "xelatex"
+  "main.aux" 1762129685.18185 790 5402d5846402b3809327cf7a71bf0a07 "xelatex"
+  "main.out" 1762129685.18263 415 0c55cfce41b8c6c385e5c55718c957aa "xelatex"
   "main.tex" 1762120618.28439 212 09a9e9964ff6a9ef99b4396671c90c9b ""
   "preamble.tex" 1762120618.54747 4178 60f838a52e7d78185a72c463517e4a99 ""
   "skills.tex" 1762128582.07847 575 081b922a0bceb76707546f7a1b4827c9 ""
