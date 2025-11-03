@@ -1,10 +1,10 @@
 # Fdb version 4
-["xdvipdfmx"] 1762130350.35198 "main.xdv" "main.pdf" "main" 1762130350.42337 0
-  "main.xdv" 1762130350.30613 36000 2185a6c69585740b7cd1c8d51b3aae34 "xelatex"
+["xdvipdfmx"] 1762130531.44488 "main.xdv" "main.pdf" "main" 1762130531.51549 0
+  "main.xdv" 1762130531.3983 35968 2082387474c9930e731b540f2a853593 "xelatex"
   (generated)
   "main.pdf"
   (rewritten before read)
-["xelatex"] 1762130349.22168 "/Users/rishabh/Development/ashley_resume_latex/main.tex" "main.xdv" "main" 1762130350.42172 0
+["xelatex"] 1762130530.30906 "/Users/rishabh/Development/ashley_resume_latex/main.tex" "main.xdv" "main" 1762130531.51416 0
   "/Users/rishabh/Development/ashley_resume_latex/main.tex" 1762129837.65576 212 09a9e9964ff6a9ef99b4396671c90c9b ""
   "/usr/local/texlive/2025basic/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136768653 1528 f853c4d1b4e0550255e02831fdc8496f ""
   "/usr/local/texlive/2025basic/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm" 1136768653 1528 abec98dbc43e172678c11b3b9031252a ""
@@ -153,10 +153,10 @@
   "/usr/local/texlive/2025basic/texmf.cnf" 1741448314 628 81d1ada0f601fb1ffa62f1323192d946 ""
   "achievements.tex" 1762129678.81055 487 a5f7f237e97a2d749cce66789dcea23f ""
   "education.tex" 1762129682.7715 1428 d72bb31b6e9b5efff8621985b67755d7 ""
-  "experience.tex" 1762129633.27526 2939 be72ef4ec9b6584e3e2962e856469502 ""
+  "experience.tex" 1762130530.09084 2936 a639d8b5ddbe7fb46bdf8e55e27210ff ""
   "header.tex" 1762130349.00459 473 be4129f2d2b94b2c51e5d4a76fbe924f ""
-  "main.aux" 1762130350.30511 790 5402d5846402b3809327cf7a71bf0a07 "xelatex"
-  "main.out" 1762130350.30581 415 0c55cfce41b8c6c385e5c55718c957aa "xelatex"
+  "main.aux" 1762130531.39735 790 5402d5846402b3809327cf7a71bf0a07 "xelatex"
+  "main.out" 1762130531.39803 415 0c55cfce41b8c6c385e5c55718c957aa "xelatex"
   "main.tex" 1762129837.65576 212 09a9e9964ff6a9ef99b4396671c90c9b ""
   "preamble.tex" 1762129837.95532 4178 60f838a52e7d78185a72c463517e4a99 ""
   "skills.tex" 1762128582.07847 575 081b922a0bceb76707546f7a1b4827c9 ""
